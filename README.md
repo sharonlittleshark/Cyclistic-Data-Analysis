@@ -8,7 +8,7 @@ This is a case project from **Google Data Analytics Capstone** in Coursera.
 
 ### Project Requirement
 The project is a business task from Cyclistic, which is a bike-share programs. The manager believes that the increment of annual members is an effective means in order to maximize the company’s profit. For an effective marketing strategy, a data analysis task has been assigned to figure out the differences between casual riders and annual members.
-The full project introduction and requirements can be checked in the == Case Study 1 - Project Intro.pdf ==. 
+The full project introduction and requirements can be checked in the ==Case Study 1 - Project Intro.pdf==. 
 
 ### Data Resource
 The [Dataset](https://divvy-tripdata.s3.amazonaws.com/index.html) used in this project is Cyclistic’s historical trip data from 1st July 2022 to 30th June 2023, included information below:
