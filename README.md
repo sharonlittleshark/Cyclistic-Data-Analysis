@@ -12,19 +12,20 @@ The full project introduction and requirements can be checked in the ***Case Stu
 
 ### Data Resource
 The [Dataset](https://divvy-tripdata.s3.amazonaws.com/index.html) used in this project is Cyclistic’s historical trip data from 1st July 2022 to 30th June 2023, included information below:
-User information: user ID and the member types (casual riders or annual members)
-Riding type: the bike used in the riding trip.
-Time: the starting and ending time of the riding trip.
-Location: the starting and ending location (station, latitude, longitude) of the riding trip.
+1. User information: user ID and the member types (casual riders or annual members)
+2. Riding type: the bike used in the riding trip.
+3. Time: the starting and ending time of the riding trip.
+4. Location: the starting and ending location (station, latitude, longitude) of the riding trip.
 
 ### Project Roadmap
-**Prepare** : Including data import, data merge
-**Process** : Including data cleaning(duplicates, outliers and missing values), data calculation
-**Analysis** : Mainly by grouping the users
-**Visualization** : Check the pattern between different groups
+1. **Prepare** : Including data import, data merge
+2. **Process** : Including data cleaning(duplicates, outliers and missing values), data calculation
+3. **Analysis** : Mainly by grouping the users
+4. **Visualization** : Check the pattern between different groups
 The full process can be checked in the ***Cyclistic Data Analysis Report.pdf***.
 
 ### Result and Findings
+
 <img width="522" alt="image" src="https://github.com/sharonlittleshark/Cyclistic-Data-Analysis/assets/126043660/40e8774a-8720-4c2c-a420-8012a3138490">
 
 <img width="528" alt="image" src="https://github.com/sharonlittleshark/Cyclistic-Data-Analysis/assets/126043660/823f2fb4-429b-4ff8-bddf-bf7d93b035e0">
